@@ -1,0 +1,12 @@
+print("Hello World Its My First Phyton web Page")
+print("pakistan")
+print("zindabad")
+print("pakistan")
+print("pakistan")
+print("pakistan")
+print("pakistan")
+print("pakistan")
+print("pakistan")
+print("pakistan")
+print("pakistan")
+
